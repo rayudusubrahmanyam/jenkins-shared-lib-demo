@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-package com.lib-demo-pro
+package com.libdemo
 
 class SampleClass {
    String name

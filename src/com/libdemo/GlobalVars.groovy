@@ -1,8 +1,8 @@
 #!/usr/bin/env groovy
-package com.lib_demo_pro
+package com.libdemo
 
 class GlobalVars {
+
    static String registryName = 'rayudusubrahmanyam/myrepository'
    static String registryCredential = 'DockerHub'
-
 }

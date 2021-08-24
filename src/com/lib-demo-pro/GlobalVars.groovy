@@ -2,10 +2,7 @@
 package com.lib-demo-pro
 
 class GlobalVars {
-   static String foo = "bar"
+   static String registryName = "rayudusubrahmanyam/myrepository"
+   Static String registryCredential = 'DockerHub'
 
-   // refer to this in a pipeline using:
-   //
-   // import com.cleverbuilder.GlobalVars
-   // println GlobalVars.foo
 }
